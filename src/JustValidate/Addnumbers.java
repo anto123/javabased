@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 
-public class Addnumbers {
+public class Addnumberss {
 
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
